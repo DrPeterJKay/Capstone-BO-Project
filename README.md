@@ -1,4 +1,4 @@
-# CAPSTONE BAYESIAN OPYIMISATION PROJECT
+# CAPSTONE BAYESIAN OPTIMISATION PROJECT
 
 My approach to this challenge was split into phases. Using a combination of exploration and exploitation.
 
@@ -9,7 +9,7 @@ I used one file per function and they were identical except for the different di
 
 ## PHASE 2:
 In the second week I employed some more conventional techniques that I had learned during the course. These were Upper Confidence Bound and Probability of improvement.
-I wrote functions for both of these and generated some guesses along with some more ‘faraway’ random guess (using the function above’ to explore the space)
+I wrote functions for both of these and generated some guesses along with some more ‘faraway’ random guesses (using the function above’ to explore the space)
 These functions only improved my maximisation values slightly.
 
 ## PHASE 3:
@@ -32,7 +32,7 @@ I felt that because I was still grappling with the coding and general concepts I
 
 ## FURTHER WORK & REFLECTIONS:
 As I said I am happy with my submission and I learnt about the power of Bayesian optimisation. I was still getting to grips with the coding and concepts to fully optimise the functions. Some things I would have improved or done differently are:
-- Stopped maying so many random guesses at the beginning and started using some optimisation functions sooner.
-- Searching for different optimisation functions. I used the same optimisation strategy for each function. However, some of the functions that we were trying to maximise were quite different. E.g. some were noisy, some were sparce, etc. Therefore, I would have looked at what other strategies could have suited each function individually.
+- Stopped making so many random guesses at the beginning and started using some optimisation functions sooner.
+- Searching for different optimisation functions. I used the same optimisation strategy for each function. However, some of the functions that we were trying to maximise were quite different. E.g. some were noisy, some were sparse, etc. Therefore, I would have looked at what other strategies could have suited each function individually.
 
 
